@@ -4,7 +4,10 @@
 # @File : test.py
 # @Software: PyCharm
 
-def func():
+def func(name):
     print("this is test for git")
+    print("name")
 if __name__=="__main__":
-    func()
+    func(name)
+    print('frist chenge')
+    print('secend chenge')
