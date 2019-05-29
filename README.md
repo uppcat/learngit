@@ -1,3 +1,0 @@
-# learngit
-learngit
-README
